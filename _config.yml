@@ -11,9 +11,9 @@ title                    : "Welcome to Adarsh's Website"
 title_separator          : "-"
 name                     : &name "Adarsh Somayaji"
 description              : &description "personal description"
-url                      : https://adarshs33.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://adarshsomayaji.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "adarshs33/adarshs33.github.io"
+repository               : "adarshsomayaji/adarshsomayaji.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Adarsh Somayaji"
   avatar           : "profile.png"
-  bio              : "Masters student at Indian Institute of Technology Madras"
+  bio              : "I am a student at the Indian Institute of Technology Madras. A product designer & a robotics enthusiast, I work on medical device development & applications of robotics to healthcare"
   location         : "Chennai"
   employer         :
   pubmed           : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/adarsh-somayaji/"
   orcid            : 
   pinterest        :
   soundcloud       :
