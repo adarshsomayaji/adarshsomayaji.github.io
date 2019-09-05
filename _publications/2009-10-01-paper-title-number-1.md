@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Realization of a Statically Balanced Compliant Remote Centre of Motion Mechanism for Robotic Surgery"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/DMD2018-6911
+excerpt: 'This paper explores the usage of large displacement flexural joints in developing a remote centre of motion mechanism for robotic surgery. A methodology for static balancing of the mechanism is also described.'
+date: 2018-04-12
+venue: 'ASME Design of Medical Devices Conference'
+paperurl: 'https://asmedigitalcollection.asme.org/BIOMED/proceedings/DMD2018/40789/V001T07A011/271886'
+citation: 'Karthik Chandrasekaran, Adarsh Somayaji, Asokan Thondiyath. (2018). &quot;Realization of a Statically Balanced Compliant Remote Centre of Motion Mechanism for Robotic Surgery.&quot; <i>ASME Design of Medical Devices Conference</i>.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://asmedigitalcollection.asme.org/BIOMED/proceedings/DMD2018/40789/V001T07A011/271886)
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
