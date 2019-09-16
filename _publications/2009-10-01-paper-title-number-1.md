@@ -7,7 +7,7 @@ date: 2018-04-12
 venue: 'ASME Design of Medical Devices Conference'
 paperurl: 'https://asmedigitalcollection.asme.org/BIOMED/proceedings/DMD2018/40789/V001T07A011/271886'
 citation: 'Karthik Chandrasekaran, Adarsh Somayaji, Asokan Thondiyath &quot;Realization of a Statically Balanced Compliant Remote Centre of Motion Mechanism for Robotic Surgery &quot; <i>ASME Design of Medical Devices Conference 2018</i>.'
-
+---
 
 [Download paper here](https://asmedigitalcollection.asme.org/BIOMED/proceedings/DMD2018/40789/V001T07A011/271886)
 
