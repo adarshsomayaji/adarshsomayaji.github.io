@@ -11,4 +11,4 @@ citation: 'Karthik Chandrasekaran, Adarsh Somayaji, Asokan Thondiyath &quot;Real
 
 [Download paper here](https://asmedigitalcollection.asme.org/BIOMED/proceedings/DMD2018/40789/V001T07A011/271886)
 
-<!--Recommended citation: 'Karthik Chandrasekaran, Adarsh Somayaji, Asokan Thondiyath &quot;Realization of a Statically Balanced Compliant Remote Centre of Motion Mechanism for Robotic Surgery &quot; <i>ASME Design of Medical Devices Conference 2018</i>.-->
+<!--Recommended citation: 'Karthik Chandrasekaran, Adarsh Somayaji, Asokan Thondiyath &quot;Realization of a Statically Balanced Compliant Remote Centre of Motion Mechanism for Robotic Surgery &quot; <i>ASME Design of Medical Devices Conference 2018</i>.
