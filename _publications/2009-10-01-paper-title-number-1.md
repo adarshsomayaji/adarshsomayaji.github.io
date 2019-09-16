@@ -6,10 +6,9 @@ excerpt: 'This research explores the usage of large displacement flexural joints
 date: 2018-04-12
 venue: 'ASME Design of Medical Devices Conference'
 paperurl: 'https://asmedigitalcollection.asme.org/BIOMED/proceedings/DMD2018/40789/V001T07A011/271886'
-citation: 'Karthik Chandrasekaran, Adarsh Somayaji, Asokan Thondiyath (2018). &quot;Realization of a Statically Balanced Compliant Remote Centre of Motion Mechanism for Robotic Surgery &quot; <i>ASME Design of Medical Devices Conference</i>.'
----
-This paper is about the number 1. The number 2 is left for future work.
+citation: 'Karthik Chandrasekaran, Adarsh Somayaji, Asokan Thondiyath &quot;Realization of a Statically Balanced Compliant Remote Centre of Motion Mechanism for Robotic Surgery &quot; <i>ASME Design of Medical Devices Conference 2018</i>.'
+
 
 [Download paper here](https://asmedigitalcollection.asme.org/BIOMED/proceedings/DMD2018/40789/V001T07A011/271886)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: 'Karthik Chandrasekaran, Adarsh Somayaji, Asokan Thondiyath &quot;Realization of a Statically Balanced Compliant Remote Centre of Motion Mechanism for Robotic Surgery &quot; <i>ASME Design of Medical Devices Conference 2018</i>.
