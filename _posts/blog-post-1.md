@@ -4,7 +4,7 @@ date: 2019-10-01
 permalink: /posts/blog-post-1/
 tags:
   - springs
-  - inversion point
+  - bistability
   - negative stiffness
 ---
 
