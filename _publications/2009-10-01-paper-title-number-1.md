@@ -1,7 +1,7 @@
 ---
 title: "Realization of a Statically Balanced Compliant Remote Centre of Motion Mechanism for Robotic Surgery"
 collection: publications
-permalink: /publication/DMD2018-6911
+permalink: /publications/DMD2018-6911
 excerpt: 'This research explores the usage of large displacement flexural joints in developing a remote centre of motion mechanism for robot assisted minimally invasive surgery so as to prevent wear, backlash, loss of haptic feedback and need for lubrication. As the mechanism is monolithic, sensorless force estimation by using current is possible. A methodology for static balancing of the mechanism is also described.'
 date: 2018-04-12
 venue: 'ASME Design of Medical Devices Conference'
