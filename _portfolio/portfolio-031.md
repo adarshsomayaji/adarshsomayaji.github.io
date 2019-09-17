@@ -1,5 +1,5 @@
 ---
-title: "Statically Balanced Monolithic RCM Mechanism"
+title: "Monolithic RCM Mechanism"
 excerpt: "Design of a monolithic statically balanced RCM mechanism for robotic surgery<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
