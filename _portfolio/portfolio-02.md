@@ -1,9 +1,9 @@
 ---
-title: "Prone positioning Therapy System for ARDS Patients"
+title: "Prone positioning therapy system for ARDS patients"
 excerpt: "An assistive device that helps in providing low cost prone positioning therapy for patients suffering from ARDS<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
-ARDS (Acute Respiratory Distress Syndrome) is a very morbid condition with a mortality rate of more than 40% and afflicting more than 2 million people around the world every year. Prone positioning therapy has been shown to reduce the mortality by about 15%. However, it is not practiced widely in hospitals due to lack of necessary infrastructure. 
+ARDS (Acute Respiratory Distress Syndrome) is a very serious condition with a mortality rate of more than 40% and afflicting more than 2 million people around the world every year. Prone positioning therapy has been shown to reduce the mortality by about 15%. However, it is not practiced widely in hospitals due to lack of necessary infrastructure. 
 I worked on this project as an intern at Shira MedTech Pvt. Ltd. This device assists care providers in providing prone positioning therapy. The device provides benefit in 3 ways - 
 1. Reduces operator load and makes the procedure simpler
 2. Improves patient safety by preventing physical trauma and pneumothorax
