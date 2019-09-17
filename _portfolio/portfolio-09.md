@@ -1,6 +1,6 @@
 ---
 title: "Static Balancing of a 6 DoF Robot"
-excerpt: "Computation of Lagrangian dynamics and optimization of countermassses for a 6 DoF Palletizing Robot<br/><img src='/images/500x300.png'>"
+excerpt: "Computation of Lagrangian dynamics and optimization of countermassses for a 6 DoF palletizing robot<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
