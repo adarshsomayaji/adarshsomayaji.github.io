@@ -1,5 +1,5 @@
 ---
-title: "Prone positioning therapy system for ARDS patients"
+title: "Prone Positioning Therapy System for ARDS Patients"
 excerpt: "An assistive device that helps in providing low cost prone positioning therapy for patients suffering from ARDS<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
