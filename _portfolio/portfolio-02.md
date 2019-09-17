@@ -9,4 +9,4 @@ I worked on this project as an intern at Shira MedTech Pvt. Ltd. This device ass
 2. Improves patient safety by preventing physical trauma and pneumothorax
 3. Prevent pressure sores and corneal injuries
 
-We are in the process of patenting this device! I will post updates soon 
+We are in the process of patenting this device! I will post updates soon. In the meantime, you can find an overview of the innovation process that we followed [here](https://adarshsomayaji.github.io/files/Intern_PPT.pdf) 
