@@ -1,5 +1,5 @@
 ---
-title: "Anti  HIV drug design"
+title: "Anti  HIV Drug Design"
 excerpt: "A computational approach for designing drugs to combat HIV<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
