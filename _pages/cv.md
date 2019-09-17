@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can find a link to my CV [here](https://adarshsomayaji.github.io/files/CV_AdarshSomayaji.pdf)
+You can find a link to my CV [here](https://adarshsomayaji.github.io/files/CV_AdarshSomayaji.pdf).
