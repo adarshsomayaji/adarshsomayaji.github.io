@@ -1,6 +1,6 @@
 ---
 title: "Variable Stiffness Grasper"
-excerpt: "A novel variable stiffness grasper design for grasping in non-structured environments<br/><img src='/images/500x300.png'>"
+excerpt: "A novel variable stiffness grasper design for grasping in non-structured environments<br/><img src='/images/VSG2.png'>"
 collection: portfolio
 ---
 
