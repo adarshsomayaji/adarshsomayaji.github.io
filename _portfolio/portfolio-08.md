@@ -1,6 +1,6 @@
 ---
 title: "Surgical Tool Tip with Embedded Actuation"
-excerpt: "A 2 DoF robotic surgical tool tip with embedded pneumatic actuation<br/><img src='/images/500x300.png'>"
+excerpt: "A 2 DoF robotic surgical tool tip with embedded pneumatic actuation<br/><img src='/images/FSR.png'>"
 collection: portfolio
 ---
 
