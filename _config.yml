@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=cZDxg2kAAAAJ&hl=en&oi=ao"
-  email            : "adarsh.somayaji@smail.iitm.ac.in"
+  email            : "adarshs33@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Adarsh_Somayaji"
   uri              :
   bitbucket        :
@@ -261,16 +261,12 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 # Plugins
 plugins:
   - jekyll-paginate
-  - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
-  - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jemoji
 
 
