@@ -1,6 +1,6 @@
 ---
 title: "Prosthetic Heart Valves"
-excerpt: "Literature review and possible methods for improving heart valve design<br/><img src='/images/500x300.png'>"
+excerpt: "Literature review and possible methods for improving heart valve design<br/><img src='/images/Biomaterials.png'>"
 collection: portfolio
 ---
 
