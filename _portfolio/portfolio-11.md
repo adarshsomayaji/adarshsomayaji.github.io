@@ -1,6 +1,6 @@
 ---
 title: "Anti  HIV Drug Design"
-excerpt: "A computational approach for designing drugs to combat HIV<br/><img src='/images/500x300.png'>"
+excerpt: "A computational approach for designing drugs to combat HIV<br/><img src='/images/MedChem.png'>"
 collection: portfolio
 ---
 
