@@ -1,6 +1,6 @@
 ---
 title: "Docking Station Design"
-excerpt: "Design of a docking system for modular built environment<br/><img src='/images/500x300.png'>"
+excerpt: "Design of a docking system for modular built environment<br/><img src='/images/Addock.png'>"
 collection: portfolio
 ---
 
