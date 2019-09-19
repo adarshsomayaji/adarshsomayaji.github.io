@@ -1,6 +1,6 @@
 ---
 title: "Optimization of Robot Parameters"
-excerpt: "Implementation of a minimax algorithm for optimizing link lengths of a robot for maximum isotropy<br/><img src='/images/500x300.png'>"
+excerpt: "Implementation of a minimax algorithm for optimizing link lengths of a robot for maximum isotropy<br/><img src='/images/Opt.png'>"
 collection: portfolio
 ---
 
