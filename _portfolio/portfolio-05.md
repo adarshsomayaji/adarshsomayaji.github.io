@@ -1,6 +1,6 @@
 ---
 title: "Swimming Pool Lift for Disabled"
-excerpt: "Mechanism synthesis and analysis of a swimming pool lift<br/><img src='/images/500x300.png'>"
+excerpt: "Mechanism synthesis and analysis of a swimming pool lift<br/><img src='/images/TOM.png'>"
 collection: portfolio
 ---
 
