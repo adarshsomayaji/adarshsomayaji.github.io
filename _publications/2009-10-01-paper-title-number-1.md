@@ -9,5 +9,6 @@ citation: 'Karthik Chandrasekaran, Adarsh Somayaji, Asokan Thondiyath, &quot;Rea
 ---
 
 [Download paper here](https://asmedigitalcollection.asme.org/BIOMED/proceedings/DMD2018/40789/V001T07A011/271886)
+
 [Download poster here](https://adarshsomayaji.github.io/files/DMD_Poster)
 
