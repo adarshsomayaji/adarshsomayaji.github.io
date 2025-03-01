@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Adarsh Somayaji"
 title_separator          : "-"
 name                     : &name "Adarsh Somayaji"
-description              : &description "Student at Indian Institute of Technology Madras"
+description              : &description "PhD Candidate at University of Minnesota, Twin Cities"
 url                      : https://adarshsomayaji.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "adarshsomayaji/adarshsomayaji.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Adarsh Somayaji"
   avatar           : "IMG_8036 (2).JPG"
-  bio              : "A robotics buff and a product designer, I work on medical device development & applications of robotics to healthcare"
-  location         : "Chennai"
+  bio              : "A robotics engineer and a product designer, I work on medical device development & applications of robotics to healthcare"
+  location         : "Minneapolis, MN"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=cZDxg2kAAAAJ&hl=en&oi=ao"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@AdarshSomayaji"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
