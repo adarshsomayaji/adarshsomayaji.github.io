@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Resume"
+permalink: /resume/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can find a link to my CV [here](https://adarshsomayaji.github.io/files/CV_AdarshSomayaji.pdf).
+You can find a link to my resume [here](https://adarshsomayaji.github.io/files/Adarsh_Somayaji_Resume.pdf).
