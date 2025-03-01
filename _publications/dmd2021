@@ -1,1 +1,10 @@
+---
+title: "Design of a Flexure-Based Compliant Grasper for the Master Arm of a Surgical Robot"
+collection: publications
+permalink: /publications/DMD2021-1037
+excerpt: 'This paper presents the design and analysis of a master arm grasper based on a partially compliant mechanism. An inherent advantage of the proposed mechanism for this application is the reduced number of components. Design details and the pseudo-rigid body analysis of the grasper are presented. A prototype of the grasper has been fabricated, and experimental verifications were carried out. The grasper was integrated into a custom-built master arm manipulator to demonstrate its utility in a surgical robot. Results show that the compliant grasper performs well for its intended purpose.'
+date: 2021-05-11
+venue: 'ASME Design of Medical Devices Conference'
+---
 
+[Link for Paper](https://asmedigitalcollection.asme.org/BIOMED/proceedings/DMD2021/84812/V001T12A007/1109060)
